@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/main/java/com/neuronrobotics/bowlerbuilder/controller/BowlerStudio3dEngine.java [BowlerBuilder_main]'" />
-    <option name="defaultScopeName" value="File '.../src/main/java/com/neuronrobotics/bowlerbuilder/controller/BowlerStudio3dEngine.java [BowlerBuilder_main]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/neuronrobotics/bowlerbuilder/controller/BowlerStudio3dEngine.java [BowlerBuilder_main]'" />
+    <option name="customScope" value="File '.../src/main/java/com/neuronrobotics/bowlerbuilder/controller/VirtualCameraMobileBase.java [BowlerBuilder_main]'" />
+    <option name="defaultScopeName" value="File '.../src/main/java/com/neuronrobotics/bowlerbuilder/controller/VirtualCameraMobileBase.java [BowlerBuilder_main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/neuronrobotics/bowlerbuilder/controller/VirtualCameraMobileBase.java [BowlerBuilder_main]'" />
   </component>
 </application>
